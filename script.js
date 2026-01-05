@@ -111,6 +111,8 @@ document.addEventListener('DOMContentLoaded', function () {
         const name = formData.get('name');
         const phone = formData.get('phone');
         const country = formData.get('country');
+        const degree = formData.get('degree');
+        const result = formData.get('result');
 
         // Simulate API call / Prepare WhatsApp URL
         setTimeout(() => {
@@ -133,7 +135,10 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             // Construct WhatsApp Message
-            const message = `Hi, I am interested in ${country}. My name is ${name} and phone is ${phone}.`;
+            let message = `Hi, I am interested in ${country}. My name is ${name} and phone is ${phone}.`;
+            if (degree) message += ` Last Degree: ${degree}.`;
+            if (result) message += ` Result: ${result}.`;
+
             const whatsappUrl = `https://wa.me/8801983333566?text=${encodeURIComponent(message)}`;
 
             // Open WhatsApp
