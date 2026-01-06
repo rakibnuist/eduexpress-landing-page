@@ -4,7 +4,7 @@
 
 This comprehensive Meta (Facebook & Instagram) marketing strategy is designed to generate high-quality leads for EduExpress International's **Study in China** program. The strategy leverages your unique selling propositions (Payment After Visa, Zero Tuition, No IELTS) to attract Bangladeshi students seeking affordable international education.
 
-**Goal:** Generate 100-300 qualified leads per month with a target cost per lead (CPL) of ₹150-300 ($1.50-$3.00 USD)
+**Goal:** Generate 100-300 qualified leads per month with a target cost per lead (CPL) of ৳15,000-30,000 ($135-$270 USD)
 
 ---
 
@@ -13,7 +13,7 @@ This comprehensive Meta (Facebook & Instagram) marketing strategy is designed to
 ### Primary Goal
 - **Lead Generation:** Collect qualified student information through the landing page form
 - **Target:** 100-300 form submissions per month
-- **Budget:** ₹30,000-50,000/month ($300-500 USD)
+- **Budget:** ৳3,00,000-5,00,000/month ($2,700-$4,500 USD)
 
 ### Secondary Goals
 - Build brand awareness among target audience
@@ -290,9 +290,9 @@ Since 2018, আমরা হাজারেরও বেশি শিক্ষ�
 
 | Budget Tier | Daily Spend | Monthly Total | Expected Leads | CPL Target |
 |-------------|-------------|---------------|----------------|------------|
-| **Starter** | ₹1,000 | ₹30,000 | 100-150 | ₹200-300 |
-| **Growth** | ₹1,500 | ₹45,000 | 150-225 | ₹180-250 |
-| **Scale** | ₹2,000 | ₹60,000 | 200-300 | ₹150-230 |
+| **Starter** | ৳1,00,000 ($900) | ৳30,00,000 ($27,000) | 100-150 | ৳20,000-30,000 ($180-$270) |
+| **Growth** | ৳1,50,000 ($1,350) | ৳45,00,000 ($40,500) | 150-225 | ৳18,000-25,000 ($162-$225) |
+| **Scale** | ৳2,00,000 ($1,800) | ৳60,00,000 ($54,000) | 200-300 | ৳15,000-23,000 ($135-$207) |
 
 ### Budget Allocation by Campaign
 
@@ -516,14 +516,14 @@ After collecting 100+ quality leads:
 
 ### Testing Methodology
 
-- **Minimum Spend:** ₹2,000 per variation before decision
+- **Minimum Spend:** ৳2,00,000 ($1,800) per variation before decision
 - **Minimum Conversions:** 20 conversions minimum per variation
 - **Winner Criteria:** 
   - Lower cost per lead (CPL)
   - Higher conversion rate (CTR → Form submission rate)
   - Better quality leads (lower spam, higher qualification rate)
 - **Test Duration:** 5-7 days minimum per test
-- **Kill Criterion:** If variation performs 50%+ worse than control after ₹1,000 spend, pause it
+- **Kill Criterion:** If variation performs 50%+ worse than control after ৳1,00,000 ($900) spend, pause it
 
 ---
 
@@ -544,7 +544,7 @@ After collecting 100+ quality leads:
 | Metric | Target | Purpose |
 |--------|--------|---------|
 | **CTR (Link Click)** | 2-4% | Ad relevance |
-| **CPC (Cost Per Click)** | ₹5-15 | Traffic efficiency |
+| **CPC (Cost Per Click)** | ৳500-1,500 ($4.50-$13.50) | Traffic efficiency |
 | **Landing Page CVR** | 5-10% | Page performance |
 | **Video View Rate** | >50% | Content engagement |
 | **Frequency** | <3 | Avoid ad fatigue |
@@ -617,8 +617,8 @@ Score each lead 1-5 based on:
   
 - [ ] **Day 3-7: Initial Optimization**
   - [ ] Check campaigns 2x daily
-  - [ ] Pause any ad with CTR <1% after ₹500 spend
-  - [ ] Pause any ad set with 0 conversions after ₹1,000 spend
+  - [ ] Pause any ad with CTR <1% after ৳50,000 ($450) spend
+  - [ ] Pause any ad set with 0 conversions after ৳1,00,000 ($900) spend
   - [ ] Monitor frequency (should be <2)
   - [ ] Respond to comments on ads within 1 hour
   
@@ -637,8 +637,8 @@ Score each lead 1-5 based on:
   - [ ] Start A/B tests (creative, audience, placement)
   
 - [ ] **Cutting What Doesn't**
-  - [ ] Pause ads with CPL >₹400
-  - [ ] Pause ad sets with 0 conversions after ₹2,000 spend
+  - [ ] Pause ads with CPL >৳40,000 ($360)
+  - [ ] Pause ad sets with 0 conversions after ৳2,00,000 ($1,800) spend
   - [ ] Reduce budget on underperforming placements
   
 - [ ] **Retargeting Activation**
@@ -886,7 +886,7 @@ Comprehensive analysis:
 ### Next Week
 
 5. **Launch Campaigns** (Day 1)
-   - Start with ₹500/day total budget
+   - Start with ৳50,000 ($450)/day total budget
    - Monitor closely first 48 hours
    
 6. **Initial Optimization** (Days 3-7)
@@ -901,7 +901,7 @@ Comprehensive analysis:
 Your Meta campaign is successful when:
 
 ✅ **CPL consistently below ₹300** (ideally ₹150-250)
-✅ **100+ qualified leads per month** from ₹30,000 budget
+✅ **100+ qualified leads per month** from ৳30,00,000 ($27,000) budget
 ✅ **70%+ lead quality rate** (4-5 star leads)
 ✅ **5%+ landing page conversion rate**
 ✅ **Positive ROI** (student enrollment value > ad spend)
@@ -910,7 +910,7 @@ Your Meta campaign is successful when:
 
 ## 🆘 Troubleshooting Common Issues
 
-### Issue 1: High CPL (>₹500)
+### Issue 1: High CPL (>৳50,000 ($450))
 
 **Causes:**
 - Poor audience targeting (too broad or wrong demographic)
@@ -972,7 +972,7 @@ Your Meta campaign is successful when:
 
 ### Do These FIRST
 1. ✅ Verify Meta Pixel is tracking correctly
-2. ✅ Start with ₹1,000/day budget (₹30,000/month)
+2. ✅ Start with ৳1,00,000 ($900)/day budget (৳30,00,000 ($27,000)/month)
 3. ✅ Focus on Bachelor program (biggest opportunity)
 4. ✅ Use Bangla for emotional connection
 5. ✅ Emphasize "Payment After Visa" USP
@@ -1044,7 +1044,7 @@ Print this and check off as you complete:
 - [ ] Conversion campaign built
 
 ### Launch
-- [ ] Campaigns activated with ₹1,000/day total
+- [ ] Campaigns activated with ৳1,00,000 ($900)/day total
 - [ ] Monitoring schedule set (2x daily first week)
 - [ ] Lead tracking spreadsheet created
 - [ ] WhatsApp follow-up process ready
@@ -1080,7 +1080,7 @@ This comprehensive plan gives you everything needed to generate 100-300 qualifie
 
 **Next Steps:**
 1. Complete implementation checklist above
-2. Launch with ₹30,000 budget first month
+2. Launch with ৳30,00,000 ($27,000) budget first month
 3. Monitor daily, optimize weekly
 4. Scale monthly based on results
 
