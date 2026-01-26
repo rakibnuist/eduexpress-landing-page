@@ -1,71 +1,66 @@
-# 🎓 EduExpress International Landing Page
+# 🎓 EduExpress - Study in China Landing Page
 
-![Project Status](https://img.shields.io/badge/Status-Live-green)
-![License](https://img.shields.io/badge/License-Proprietary-blue)
+A high-converting, professional landing page for **EduExpress**, focused on providing world-class educational opportunities in China with Government Scholarships and full support.
 
-A high-conversion landing page for **EduExpress International**, a study abroad consultancy specializing in Malaysia and Estonia work-study programs. Designed with a mobile-first approach, this project focuses on lead generation, speed, and user trust.
-
-🌐 **Live Site:** [https://www.eduexpress.info/](https://www.eduexpress.info/)
+## 🚀 Live Demo
+**Website:** [https://www.eduexpress.info/](https://www.eduexpress.info/)
 
 ---
 
-## 🚀 Key Features
+## ✨ Key Features
 
-*   **Conversion Optimization:**
-    *   "Check Eligibility" CTAs driven by behavioral psychology.
-    *   Strategic "No IELTS" & "Payment After Visa" hooks.
-    *   Sticky mobile bottom bar for high-speed contact (WhatsApp/Call).
-*   **Tech Stack:**
-    *   **HTML5 / Vanilla JS**: Lightweight and zero-bloat for maximum load speed.
-    *   **Tailwind CSS**: Modern, responsive styling with a custom design system.
-    *   **Vercel**: Edge network deployment for global performance.
-*   **Tracking & Analytics:**
-    *   **Meta Pixel (Facebook)**: Advanced event tracking including `ViewContent` (Deep Scroll) and `CompleteRegistration`.
-    *   **Google Analytics 4**: Integrated for traffic analysis.
-
-## 📂 Project Structure
-
-```
-EduExpress-Landing-Page/
-├── index.html          # Main application structure (SEO Optimized)
-├── styles.css          # Custom overrides and animations
-├── script.js           # Form handling, validation, and Pixel logic
-├── favicon.ico         # Brand asset
-├── META_MARKETING_GUIDE.md # Comprehensive ad strategy for this page
-└── README.md           # Documentation
-```
-
-## 🛠️ Setup & Development
-
-To run this project locally:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/your-username/eduexpress-landing.git
-    cd eduexpress-landing
-    ```
-
-2.  **Install Dependencies (Optional for Tailwind):**
-    *   *Note: This project currently uses Tailwind via CDN for simplicity. For production builds, a build step is recommended.*
-
-3.  **Run Locally:**
-    Using Vercel CLI:
-    ```bash
-    vercel dev
-    ```
-    Or simply open `index.html` in your browser.
-
-## 📊 Marketing Events implemented
-
-| Event Name | Trigger | Purpose |
-| :--- | :--- | :--- |
-| **ViewContent** | Scroll Depth > 20% | Identifies interested users who read content. |
-| **CompleteRegistration** | Form Submit | Primary conversion event (Lead generated). |
-
-## 📝 Author
-
-**EduExpress Tech Team**
-*Focusing on Student Success in Europe & Asia.*
+- **China Focus**: Tailored content for Chinese Government Scholarships and University placements.
+- **Lead Generation**: Integrated eligibility check form with automatic Google Sheets synchronization.
+- **Async Submission**: Form data is sent to Google Sheets in the background while redirecting to WhatsApp.
+- **High-Trust UI**: Professional trust bar with badges for "Official University Partner" and "Chinese Embassy Recognized".
+- **Responsive Design**: Fully optimized for mobile and desktop users.
+- **Meta Marketing Ready**: Includes structured content for Meta (Facebook/Instagram) advertising performance.
 
 ---
-*© 2025 EduExpress International. All Rights Reserved.*
+
+## 📊 Data Management
+
+Leads generated through the website are automatically synced to the following Google Sheet for centralized management:
+
+**Google Sheet:** [China Web Leads](https://docs.google.com/spreadsheets/d/12yyUf2zRZgWbKBXyj2XjVuEztx_g8Iknm-w8cqTyGRk/edit?usp=sharing)
+
+---
+
+## 🛠️ Technology Stack
+
+- **Frontend**: HTML5, Vanilla CSS, JavaScript
+- **Icons**: FontAwesome 6.4.0
+- **Fonts**: Inter (Google Fonts)
+- **Backend**: Google Apps Script (Serverless Lead Capture)
+- **Deployment**: Vercel
+
+---
+
+## 🏗️ Project Structure
+
+- `index.html`: Main landing page structure and content.
+- `script.js`: Core logic for form handling, Google Sheets integration, and WhatsApp redirection.
+- `styles.css`: Custom professional styling.
+- `api/`: Backend API routes (if applicable).
+- `META_MARKETING_PLAN.md`: Strategic plan for lead generation.
+
+---
+
+## 📝 Setup & Deployment
+
+The project is deployed on **Vercel** for high performance and global availability.
+
+### Connecting to Google Sheets
+1. Create a Google Sheet with headers: `Timestamp`, `name`, `phone`, `degree`, `result`, `english_score`, `country`.
+2. Deploy a Google Apps Script as a web app.
+3. Update the `scriptURL` in `script.js` with your Web App URL.
+
+---
+
+## 🤝 Contact
+For any inquiries regarding this landing page or EduExpress services:
+- **Website**: [www.eduexpress.info](https://www.eduexpress.info/)
+- **WhatsApp**: Click the "Check Eligibility" button on the site to connect instantly.
+
+---
+*Created by Antigravity for EduExpress.*

@@ -48,7 +48,7 @@ Since you are a new brand without a huge reputation yet, we will use a **Filter 
 
 **Set B: The "Desperate" (Specific Problems)**
 *   **Age:** 20 - 30.
-*   **Interests:** Immigration, Visa, Work permit, Jobs in Europe, Chef (for Estonia cooking course).
+*   **Interests:** Study abroad, IELTS, Student visa, Higher education, CSC Scholarship, Study in China.
 
 ---
 
@@ -56,38 +56,38 @@ Since you are a new brand without a huge reputation yet, we will use a **Filter 
 
 Your landing page promises "No IELTS" and "Payment After Visa". Your ads MUST shout this.
 
-### Ad Format 1: The "Malaysia" Single Image
-*   **Visual:** Happy student in a hotel lobby OR Malaysian Twin Towers.
+### Ad Format 1: The "Scholarship" Single Image
+*   **Visual:** Modern Chinese university campus or happy international students in China.
 *   **Primary Text (Caption):**
-    > 🇲🇾 মালয়েশিয়ায় ক্যারিয়ার + পড়াশোনা!
+    > 🇨🇳 চায়নাতে ফুল ফ্রি স্কলারশিপ - ২০২৬!
     >
-    > শুধু এসএসসি (SSC) পাসে আবেদন করুন।
-    > ✅ ১ টাকাও আগে লাগবে না (Tuition and Processing after VISA)।
-    > ✅ ১০০% থাকা ফ্রি (প্রথম ১ বছর)।
-    > ✅ পার্ট-টাইম জবের সুযোগ।
+    > শুধু এসএসসি (SSC) বা এইচএসসি (HSC) পাসে আবেদন করুন।
+    > ✅ ১ টাকাও আগে লাগবে না (All Payment After VISA)।
+    > ✅ টিউশন ও হোস্টেল ফি ১০০% ফ্রি।
+    > ✅ মাসিক স্টাইপেন্ড ৳১০,০০০ - ৳৬০,০০০।
     >
     > সিট সীমিত! এখনই যোগ্যতা যাচাই করুন 👇
     > [Link to Landing Page]
-*   **Headline:** No IELTS | Pay After Visa 🇲🇾
+*   **Headline:** No IELTS | Pay After Visa 🇨🇳
 *   **Button:** Check Eligibility
 
-### Ad Format 2: The "Europe" Carousel (Estonia)
-*   **Card 1 (The Hook):** Image of Estonia Old Town. Text: "Europe w/o IELTS?"
-*   **Card 2 (The Benefit):** Image of Chef/Kitchen. Text: "Paid Short Course & Job".
+### Ad Format 2: The "Programs" Carousel (China)
+*   **Card 1 (The Hook):** Image of modern lab. Text: "Engineering & IT in China".
+*   **Card 2 (The Benefit):** Image of student receiving stipend. Text: "Monthly Income Guaranteed".
 *   **Card 3 (The Safety):** "No Visa = No Fee".
-*   **Headline:** Study & Work in Estonia 🇪🇪
+*   **Headline:** Study in China 2026 🎓
 
 ### Ad Format 3: The "Retargeting" Personal Note (For Campaign B)
 *   *Show this ONLY to people who visited looking for success/trust.*
 *   **Primary Text:**
-    > "Still thinking about your Europe dream?" 🤔
+    > Still thinking about your China dream? 🤔
     >
-    > We noticed you checked our Estonia program but didn't apply.
+    > We noticed you checked our China scholarship program but didn't apply.
     > Did you know our application fee is ZERO? You have nothing to lose by just talking to us.
     >
-    > Get your free assessment today properly.
+    > Get All Payment After VISA today properly.
     > [Link]
-*   **Headline:** Free Assessment (Expires Soon)
+*   **Headline:** All Payment After VISA (Expires Soon)
 
 ---
 

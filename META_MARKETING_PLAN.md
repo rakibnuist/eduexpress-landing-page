@@ -195,7 +195,7 @@ graph TD
 Hook (0-3s): "বিদেশে পড়তে চান কিন্তু IELTS + লক্ষ টাকা খরচ?"
 Problem (3-7s): Show pain points with sad/stressed student
 Solution (7-12s): "চায়নায় ১০০% ফ্রি + Payment After Visa"
-CTA (12-15s): "Free Assessment করুন আজই"
+CTA (12-15s): "All Payment After VISA"
 ```
 
 #### **Video 2: Student Testimonial (30 sec)**
@@ -234,7 +234,7 @@ CTA: "Start Your Journey - Check Eligibility"
 ✨ Monthly Stipend ৳10,000-৳60,000
 ✨ Diploma থেকে PhD - সব প্রোগ্রাম
 
-📞 Free Assessment করুন এখনই!
+📞 All Payment After VISA!
 👇 Form fill করুন - ১০০% বিনামূল্যে
 
 [Learn More Button]
@@ -511,7 +511,7 @@ After collecting 100+ quality leads:
 
 #### **Phase 4: Offer Testing (Ongoing)**
 - **Test A:** "Payment After Visa" vs. "100% Free Scholarship" headline
-- **Test B:** Different CTAs ("Check Eligibility" vs. "Apply Now" vs. "Free Assessment")
+- **Test B:** Different CTAs ("Check Eligibility" vs. "Apply Now" vs. "All Payment After VISA")
 - **Test C:** Different urgency angles (seats limited vs. deadline approaching)
 
 ### Testing Methodology

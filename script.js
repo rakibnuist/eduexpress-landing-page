@@ -113,6 +113,20 @@ document.addEventListener('DOMContentLoaded', function () {
         const country = formData.get('country');
         const degree = formData.get('degree');
         const result = formData.get('result');
+        const english_score = formData.get('english_score');
+
+        // --- Google Sheets Submission ---
+        const scriptURL = 'https://script.google.com/macros/s/AKfycbwRAtUUtJ0wcRi68szNVP1jAjxxmgH-zBv33tErl_LNDO-RSmHOJPRRLXEcri2862ye/exec';
+
+        if (scriptURL && scriptURL !== 'YOUR_GOOGLE_SCRIPT_URL_HERE') {
+            fetch(scriptURL, {
+                method: 'POST',
+                body: new URLSearchParams(formData),
+                mode: 'no-cors' // Use no-cors to avoid pre-flight issues with GAS
+            })
+                .then(() => console.log('Lead synced to Google Sheets'))
+                .catch(error => console.error('Sheet Sync Error:', error));
+        }
 
         // Simulate API call / Prepare WhatsApp URL
         setTimeout(() => {
@@ -135,9 +149,10 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             // Construct WhatsApp Message
-            let message = `Hi, I am interested in ${country}. My name is ${name} and phone is ${phone}.`;
+            let message = `Hi, I am interested in Study in China. My name is ${name} and phone is ${phone}.`;
             if (degree) message += ` Last Degree: ${degree}.`;
             if (result) message += ` Result: ${result}.`;
+            if (english_score) message += ` English Score: ${english_score}.`;
 
             const whatsappUrl = `https://wa.me/8801983333566?text=${encodeURIComponent(message)}`;
 

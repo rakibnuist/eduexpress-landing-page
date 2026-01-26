@@ -95,12 +95,12 @@ Use these templates below (copy-paste ready)
 
 ⏰ March 2026 Intake - Seats LIMITED!
 
-📞 Free Assessment করুন এখনই - ১০০% বিনামূল্যে!
+📞 All Payment After VISA! - ১০০% বিনামূল্যে!
 ```
 
 **Headline:** চায়নায় ১০০% ফ্রি স্কলারশিপ | Payment After Visa
 
-**Description:** ভিসার পর পেমেন্ট | No IELTS | Free Assessment
+**Description:** ভিসার পর পেমেন্ট | No IELTS | All Payment After VISA
 
 **Call to Action Button:** Learn More
 
@@ -140,7 +140,7 @@ Since 2018, EduExpress হাজারেরও বেশি শিক্ষা�
 
 ⚡ আর দেরি না করে আজই যোগ্যতা যাচাই করুন!
 
-📞 100% FREE Assessment - কোনো Hidden Cost নেই!
+📞 All Payment After VISA - কোনো Hidden Cost নেই!
 ```
 
 **Headline:** Since 2018 | 1000+ Students Placed | Authorized Agent
@@ -215,7 +215,7 @@ https://www.eduexpress.info/study-in-china.html?utm_source=facebook&utm_medium=c
 - University campus image (modern, attractive)
 - Key text: "Payment After Visa" in large font
 - Trust badge: "Since 2018 | 1000+ Students"
-- CTA: "Free Assessment"
+- CTA: "All Payment After VISA"
 - Color scheme: Red (#DC2626), Green (#10B981), Yellow (#FFB800)
 
 **Text Overlay (keep minimal):**
@@ -294,7 +294,7 @@ Click **Next**
 - `চায়নায় ১০০% ফ্রি স্কলারশিপ | Payment After Visa`
 
 **Description:**
-- `ভিসার পর পেমেন্ট | No IELTS | Free Assessment`
+- `ভিসার পর পেমেন্ট | No IELTS | All Payment After VISA`
 
 **Call to Action:**
 - Select: **Learn More**
