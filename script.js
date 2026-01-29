@@ -154,7 +154,7 @@ document.addEventListener('DOMContentLoaded', function () {
             if (result) message += ` Result: ${result}.`;
             if (english_score) message += ` English Score: ${english_score}.`;
 
-            const whatsappUrl = `https://wa.me/8801983333566?text=${encodeURIComponent(message)}`;
+            const whatsappUrl = `https://wa.me/8801329663505?text=${encodeURIComponent(message)}`;
 
             // Open WhatsApp
             window.open(whatsappUrl, '_blank');

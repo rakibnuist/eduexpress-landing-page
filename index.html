@@ -3,7 +3,8 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
     <meta name="description"
         content="Study in China 2026 with Full Free Scholarship. Payment After Visa. No IELTS required. Apply now for Diploma, Bachelor, and Masters.">
     <meta name="keywords"
@@ -87,6 +88,16 @@
         .hero-pattern {
             background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
         }
+
+        /* Mobile Input Zoom Fix */
+        @media screen and (max-width: 768px) {
+
+            input,
+            select,
+            textarea {
+                font-size: 16px !important;
+            }
+        }
     </style>
 
     <!-- Google Consent & Analytics -->
@@ -120,19 +131,19 @@
             src="https://www.facebook.com/tr?id=2215890842219816&ev=PageView&noscript=1" /></noscript>
 </head>
 
-<body class="font-sans text-gray-800 antialiased bg-gray-50 pb-20 md:pb-0">
+<body class="font-sans text-gray-800 antialiased bg-gray-50 pb-[calc(6rem+env(safe-area-inset-bottom))] md:pb-0">
 
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N6CTSV35" height="0" width="0"
             style="display:none;visibility:hidden"></iframe></noscript>
 
     <!-- Sticky Navbar -->
-    <nav class="fixed w-full z-50 bg-white shadow-md h-20 border-b border-red-50">
+    <nav class="fixed w-full z-50 bg-white shadow-md h-16 md:h-20 border-b border-red-50">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-full">
             <div class="flex justify-between items-center h-full">
                 <a href="/" class="flex-shrink-0">
                     <img src="https://eduexpressint.com/_next/image?url=%2Flogo.png&w=384&q=60" alt="EduExpress"
-                        class="h-10 md:h-12 w-auto object-contain">
+                        class="h-8 md:h-12 w-auto object-contain">
                 </a>
 
                 <!-- Desktop Links -->
@@ -154,7 +165,7 @@
         </div>
     </nav>
 
-    <main class="pt-20">
+    <main class="pt-16 md:pt-20">
         <!-- Professional Trust Bar (Replaced Urgency Alert) -->
         <div class="bg-slate-50 border-y border-gray-200 py-3 overflow-hidden">
             <div class="max-w-7xl mx-auto px-4">
@@ -180,6 +191,20 @@
             </div>
         </div>
 
+
+
+        <!-- Urgency Banner -->
+        <div class="bg-brand-red text-white py-3 text-center px-4 shadow-inner relative overflow-hidden">
+            <div class="absolute inset-0 bg-white/10 animate-pulse-slow"></div>
+            <p class="relative z-10 font-bold text-sm md:text-base flex items-center justify-center gap-2">
+                <i class="fas fa-clock fa-spin-pulse"></i>
+                <span>2026 Intake Closing Soon!</span>
+                <span class="bg-yellow-400 text-red-900 text-xs px-2 py-0.5 rounded uppercase tracking-wider">Limited
+                    Seats</span>
+            </p>
+        </div>
+
+        <!-- Rest of content remains structurally same but inherits style fixes -->
 
         <!-- Hero Section -->
         <section class="gradient-red hero-pattern relative text-white overflow-hidden shadow-2xl"
@@ -711,6 +736,96 @@
 
 
 
+
+        <!-- Testimonials Section -->
+        <section class="py-16 bg-white overflow-hidden border-t border-gray-100">
+            <div class="max-w-7xl mx-auto px-4">
+                <div class="text-center mb-12">
+                    <span
+                        class="inline-block bg-green-100 text-green-800 px-4 py-2 rounded-full font-bold text-sm mb-4">
+                        💚 Student Success Stories
+                    </span>
+                    <h2 class="font-heading text-3xl md:text-5xl font-extrabold text-gray-900 mb-4">
+                        What Our Students Say
+                    </h2>
+                    <p class="text-gray-600 text-lg max-w-2xl mx-auto">
+                        Join 1000+ students who achieved their dreams with EduExpress
+                    </p>
+                </div>
+
+
+
+                <div class="flex flex-wrap justify-center gap-6">
+                    <!-- Review 1: Naoroj Jaman Rafi -->
+                    <div
+                        class="w-full md:w-[350px] bg-gray-50 p-6 rounded-2xl shadow-sm border border-gray-100 relative hover:shadow-md transition">
+                        <i class="fas fa-quote-left text-4xl text-brand-red/10 absolute top-4 left-4"></i>
+                        <div class="relative z-10 pt-4 h-full flex flex-col">
+                            <p class="text-gray-700 italic mb-6 flex-grow text-sm leading-relaxed">
+                                "EduExpress International was pivotal in helping me obtain a Full Tuition Fee
+                                Scholarship and a 1200 CNY monthly stipend for my Computer Science and Technology major
+                                at Shanghai University of Electric Power. Their thorough assistance ensured a seamless
+                                transition."
+                            </p>
+                            <div class="flex items-center gap-4 mt-auto">
+                                <img src="naoroj.png" alt="Naoroj Jaman Rafi"
+                                    class="w-12 h-12 rounded-full object-cover border-2 border-blue-100 shrink-0">
+                                <div>
+                                    <h4 class="font-bold text-gray-900 text-sm">Naoroj Jaman Rafi</h4>
+                                    <p class="text-xs text-gray-500">B.Sc in CSE</p>
+                                    <p class="text-[10px] text-gray-400">Shanghai Univ. of Electric Power</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 2: Akter Lija -->
+                    <div
+                        class="w-full md:w-[350px] bg-gray-50 p-6 rounded-2xl shadow-sm border border-gray-100 relative hover:shadow-md transition">
+                        <i class="fas fa-quote-left text-4xl text-brand-red/10 absolute top-4 left-4"></i>
+                        <div class="relative z-10 pt-4 h-full flex flex-col">
+                            <p class="text-gray-700 italic mb-6 flex-grow text-sm leading-relaxed">
+                                "With the invaluable assistance of EduExpress International, I was awarded a full
+                                scholarship for my Bachelor’s in Pharmacy at Nantong University. From the detailed
+                                application process to visa arrangements, their expertise and support were evident."
+                            </p>
+                            <div class="flex items-center gap-4 mt-auto">
+                                <img src="akter.png" alt="Akter Lija"
+                                    class="w-12 h-12 rounded-full object-cover border-2 border-pink-100 shrink-0">
+                                <div>
+                                    <h4 class="font-bold text-gray-900 text-sm">Akter Lija</h4>
+                                    <p class="text-xs text-gray-500">Bachelor in Pharmacy</p>
+                                    <p class="text-[10px] text-gray-400">Nantong University</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Review 3: Md Israfil Hossain -->
+                    <div
+                        class="w-full md:w-[350px] bg-gray-50 p-6 rounded-2xl shadow-sm border border-gray-100 relative hover:shadow-md transition">
+                        <i class="fas fa-quote-left text-4xl text-brand-red/10 absolute top-4 left-4"></i>
+                        <div class="relative z-10 pt-4 h-full flex flex-col">
+                            <p class="text-gray-700 italic mb-6 flex-grow text-sm leading-relaxed">
+                                "I achieved a scholarship covering full tuition and hostel fees, along with a 600 CNY
+                                monthly stipend for my diploma. Now, in my internship with an 1800 CNY monthly
+                                remuneration, I see the tangible impact of their dedication."
+                            </p>
+                            <div class="flex items-center gap-4 mt-auto">
+                                <img src="israfil.png" alt="Md Israfil Hossain"
+                                    class="w-12 h-12 rounded-full object-cover border-2 border-yellow-100 shrink-0">
+                                <div>
+                                    <h4 class="font-bold text-gray-900 text-sm">Md Israfil Hossain</h4>
+                                    <p class="text-xs text-gray-500">Diploma in Hotel Mgmt.</p>
+                                    <p class="text-[10px] text-gray-400">Luzhou Vocational College</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <!-- Main Content Area -->
         <div class="max-w-7xl mx-auto px-4 mt-8 relative z-20 pb-16">
             <div class="grid lg:grid-cols-3 gap-8">
@@ -958,6 +1073,7 @@
                                     <option value="HSC">HSC / Alim</option>
                                     <option value="Diploma">Diploma</option>
                                     <option value="Bachelor">Bachelor / Honours</option>
+                                    <option value="Masters">Masters</option>
                                 </select>
                             </div>
                             <div>
@@ -1024,8 +1140,7 @@
                         <p class="leading-relaxed">
                             House: 12/1, Ground Floor Road: 4/A, Dhanmondi, Dhaka - 1209, Bangladesh
                         </p>
-                        <p><i class="fas fa-phone mr-2 text-green-400"></i> <a href="tel:+8801983333566"
-                                class="hover:text-white">+880 1983-333566</a></p>
+
                         <p><i class="fas fa-phone mr-2 text-green-400"></i> <a href="tel:+8801329663505"
                                 class="hover:text-white">+880 1329-663505</a></p>
                         <p><i class="fas fa-envelope mr-2 text-blue-400"></i> <a href="mailto:info@eduexpressint.com"
@@ -1037,11 +1152,11 @@
                 <div>
                     <p class="font-bold text-lg mb-3"><i class="fas fa-headset mr-2 text-red-500"></i> Get in Touch</p>
                     <div class="flex flex-col gap-3">
-                        <a href="https://wa.me/8801983333566"
+                        <a href="https://wa.me/8801329663505"
                             class="bg-green-500 hover:bg-green-600 text-white px-5 py-3 rounded-lg font-bold flex items-center justify-center gap-2 transition">
                             <i class="fab fa-whatsapp text-xl"></i> WhatsApp Us
                         </a>
-                        <a href="tel:+8801983333566"
+                        <a href="tel:+8801329663505"
                             class="bg-white/10 hover:bg-white/20 text-white px-5 py-3 rounded-lg font-bold flex items-center justify-center gap-2 transition">
                             <i class="fas fa-phone-alt"></i> Call Now
                         </a>
@@ -1063,12 +1178,12 @@
     <!-- Mobile Bottom Bar -->
     <div
         class="fixed bottom-0 left-0 w-full bg-white border-t border-gray-200 p-3 md:hidden flex gap-3 z-[100] shadow-[0_-4px_6px_-1px_rgba(0,0,0,0.1)]">
-        <a href="tel:+8801983333566"
+        <a href="tel:+8801329663505"
             class="flex-1 bg-gray-100 text-gray-800 font-bold py-3.5 rounded-xl text-center flex items-center justify-center gap-2">
             <i class="fas fa-phone-alt"></i> Call
         </a>
-        <a href="https://wa.me/8801983333566"
-            class="flex-1 bg-brand-red text-white font-bold py-3.5 rounded-xl text-center flex items-center justify-center gap-2 animate-pulse">
+        <a href="#contact"
+            class="flex-1 bg-brand-red text-white font-bold py-3.5 rounded-xl text-center flex items-center justify-center gap-2 animate-pulse shadow-lg">
             Apply Now
         </a>
     </div>
